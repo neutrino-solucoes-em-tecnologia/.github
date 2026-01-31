@@ -1,67 +1,57 @@
-# 🚀 Neutrino
+# Neutrino
 
-<div align="center">
+**Engenharia de Software de Alta Complexidade**
 
-### Engenharia de Software de Alta Complexidade
+Arquitetura, segurança e escalabilidade para sistemas mission-critical.
 
-**Arquitetura, Segurança e Escalabilidade para Sistemas Mission-Critical**
-
-[🌐 Website](https://neutrino.dev) • [💼 LinkedIn](https://linkedin.com/company/neutrino) • [📧 Contato](mailto:contato@neutrino.dev)
-
-</div>
+[Website](https://neutrino.dev) • [LinkedIn](https://linkedin.com/company/neutrino) • [Contato](mailto:contato@neutrino.dev)
 
 ---
 
-## 💡 Sobre Nós
+## Sobre Nós
 
 **Sistemas mission-critical precisam de engenharia mission-critical. Sabemos fazer isso.**
 
 A Neutrino é uma boutique de engenharia de software especializada em sistemas de alta complexidade, onde downtime custa dinheiro real. Trabalhamos com empresas que precisam de **parceiros técnicos, não fornecedores**.
 
-### 🎯 O Que Fazemos
-
-Não fazemos sites institucionais. Fazemos sistemas que:
-- ✅ Processam dinheiro e transações financeiras
-- ✅ Suportam operações críticas 24/7
-- ✅ Escalam sob pressão e alto volume
-- ✅ Mantêm 99.9%+ uptime em produção
+Não fazemos sites institucionais. Fazemos sistemas que processam dinheiro, suportam operações críticas 24/7, escalam sob pressão e mantêm 99.9%+ uptime em produção.
 
 ---
 
-## 🔧 Competências Core
+## Competências Core
 
-### 🏗️ **Arquitetura de Software**
+### Arquitetura de Software
 Sistemas de alta disponibilidade, arquiteturas escaláveis, ambientes cloud-native e híbridos. Projetamos para crescer sem refatoração.
 
 **Stack:** CQRS • Event Sourcing • Multi-Database • Microservices • CDC
 
-### 🛡️ **Segurança & Criptografia**
+### Segurança & Criptografia
 Threat modeling, design seguro de APIs, cloaking, detecção de bots, inteligência de tráfego. Redução de superfície de ataque.
 
 **Stack:** Bot Detection • OWASP Compliance • Audit Logging • Encryption at Rest/Transit
 
-### ⚙️ **Backend de Alta Performance**
+### Backend de Alta Performance
 Laravel em larga escala, Go para serviços de alta performance, PHP para sistemas críticos.
 
 **Stack:** PHP 8.3 • Laravel 11/12 • Go • MySQL 8.0/Percona • MongoDB 7.0+ • Redis
 
 **Métricas:** 50K eventos/min • p95 latency 47ms • 92% cache hit rate
 
-### 💳 **Integrações Financeiras**
+### Integrações Financeiras
 Pix, APIs bancárias, embedded finance (BaaS), gateways de pagamento. Alto volume, baixa latência, resiliência a instabilidade.
 
 **Stack:** Pix • APIs Bancárias • Celcoin/BaaS • Webhooks + Retry • Kafka • Redis Streams
 
 **Métricas:** Sub-200ms latency • Retry inteligente • Circuit breaker
 
-### ☁️ **Cloud & Infraestrutura AWS**
+### Cloud & Infraestrutura AWS
 Arquitetura cloud-native, auto scaling, alta disponibilidade, disaster recovery, observabilidade profunda.
 
 **Stack:** AWS (EC2, ALB, S3, RDS) • Auto Scaling • Cloudflare • Nginx • Prometheus • Grafana
 
 **Métricas:** Multi-AZ • Backup automático • 99.95%+ uptime
 
-### 📊 **Performance & Observabilidade**
+### Performance & Observabilidade
 Tuning de banco de dados, otimização de queries, análise de gargalos. Monitoramento proativo e ajuste contínuo.
 
 **Stack:** Query Tuning • Composite Indexes • Partitioning • Connection Pooling
@@ -70,24 +60,20 @@ Tuning de banco de dados, otimização de queries, análise de gargalos. Monitor
 
 ---
 
-## 📈 Em Números
-
-<div align="center">
+## Resultados em Produção
 
 | Métrica | Valor |
 |---------|-------|
-| 🕐 **Anos de Experiência** | 15+ anos |
-| ⚡ **Uptime Médio** | 99.9%+ |
-| 🔥 **Performance** | 50K+ eventos/minuto |
-| 🎯 **Latência p95** | < 50ms |
-| 📞 **Suporte** | 24/7 |
-| 🚨 **Downtime/ano** | < 4 horas |
-
-</div>
+| **Anos de Experiência** | 15+ anos |
+| **Uptime Médio** | 99.9%+ |
+| **Performance** | 50K+ eventos/minuto |
+| **Latência p95** | < 50ms |
+| **Suporte** | 24/7 |
+| **Downtime/ano** | < 4 horas |
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### **Languages**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -118,62 +104,64 @@ Tuning de banco de dados, otimização de queries, análise de gargalos. Monitor
 
 ---
 
-## 🎯 Para Quem Trabalhamos
+## Para Quem Trabalhamos
 
-✨ **Fintechs** que processam pagamentos e precisam de 100% de confiabilidade  
-✨ **SaaS B2B** com arquitetura complexa e integrações críticas  
-✨ **Embedded Finance** que precisa de infraestrutura bancária  
-✨ **Empresas reguladas** com requisitos de compliance rigorosos  
-✨ **Scale-ups** que cresceram rápido e precisam de arquitetura sólida  
+**Fintechs** que processam pagamentos e precisam de 100% de confiabilidade
+
+**SaaS B2B** com arquitetura complexa e integrações críticas
+
+**Embedded Finance** que precisa de infraestrutura bancária
+
+**Empresas reguladas** com requisitos de compliance rigorosos
+
+**Scale-ups** que cresceram rápido e precisam de arquitetura sólida
 
 ---
 
-## 💼 Por Que Neutrino?
+## Por Que Neutrino
 
-### ⚡ **Experiência Real em Produção**
+### Experiência Real em Produção
 15+ anos construindo e mantendo sistemas críticos. Sabemos o que quebra em produção e como prevenir.
 
-### 🔒 **Security-First**
+### Security-First
 Threat modeling, OWASP compliance, PHPStan Level 6, auditoria para regulatórios (LGPD, PCI-DSS).
 
-### 📊 **Orientados por Métricas**
+### Orientados por Métricas
 Não confiamos em feeling. Medimos tudo: latência, throughput, error rate, cache hit ratio, uptime.
 
-### 🛡️ **Arquitetura Resiliente**
+### Arquitetura Resiliente
 Circuit breakers, dead letter queues, retry inteligente, idempotência. Sistemas que continuam funcionando quando terceiros falham.
 
-### 🚀 **Alta Performance**
+### Alta Performance
 Query tuning, índices compostos, connection pooling, caching estratégico. Reduzimos 15s para 180ms em queries reais.
 
 ---
 
-## 📚 Documentação & Guias
+## Documentação Técnica
 
 Mantemos documentação técnica detalhada de nossas práticas e arquiteturas:
 
-- 📖 [CQRS Pattern Implementation](./docs/cqrs-pattern.md)
-- 📖 [Security Practices Guide](./docs/security-practices.md)
-- 📖 [Health Checks & Monitoring](./docs/health-checks.md)
-- 📖 [API Versioning Strategy](./docs/api-versioning.md)
-- 📖 [Database Architecture](./docs/database-structure.md)
-- 📖 [Design Patterns Enterprise](./docs/DESIGN-PATTERNS-E-ARQUITETURA-CORPORATIVA.md)
+- [CQRS Pattern Implementation](./docs/cqrs-pattern.md)
+- [Security Practices Guide](./docs/security-practices.md)
+- [Health Checks & Monitoring](./docs/health-checks.md)
+- [API Versioning Strategy](./docs/api-versioning.md)
+- [Database Architecture](./docs/database-structure.md)
+- [Design Patterns Enterprise](./docs/DESIGN-PATTERNS-E-ARQUITETURA-CORPORATIVA.md)
 
 ---
 
-## 🤝 Vamos Conversar
+## Contato
 
 Você tem um desafio técnico complexo? Vamos conversar sobre como podemos ajudar.
 
-- 🌐 **Website:** [neutrino.dev](https://neutrino.dev)
-- 📧 **Email:** contato@neutrino.dev
-- 💼 **LinkedIn:** [Neutrino](https://linkedin.com/company/neutrino)
+**Website:** [neutrino.dev](https://neutrino.dev)
+
+**Email:** contato@neutrino.dev
+
+**LinkedIn:** [Neutrino](https://linkedin.com/company/neutrino)
 
 ---
 
-<div align="center">
-
 **Engenharia que resolve, não improvisa.**
 
-🚀 Construindo sistemas que importam desde 2010
-
-</div>
+Construindo sistemas que importam desde 2010
